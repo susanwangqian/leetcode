@@ -1,6 +1,6 @@
 # Leetcode
 
-This folder is about leetcode notes I've been working on since 03/01/2024.
+This folder is about leetcode notes I've been working on since 06/28/2024.
 
 **Helpful resources:**
 
